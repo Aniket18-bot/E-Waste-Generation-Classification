@@ -32,7 +32,7 @@ To build a deep learning image classifier using EfficientNetV2B0 (via transfer l
 
 ## 🗂️ Dataset
 
-* **Source:** [Kaggle - E-Waste Image Dataset(https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset)  
+* **Source:** [Kaggle - E-Waste Image Dataset](https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset)  
 * **Classes:** Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine
 * **Structure:** Organized in folders by class label.
 * **Size:** Balanced with 2400 training images, 300 validation images, 300 test images.
